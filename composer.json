@@ -16,7 +16,7 @@
   },
   "require": {
       "illuminate/support": "^7.0|^8.0",
-        "guzzlehttp/guzzle": "^6.2|^7.4",
+        "guzzlehttp/guzzle": "^6.2|^7.0.1",
         "zendframework/zend-diactoros": "^2.2",
         "symfony/psr-http-message-bridge": "^2.1"
   }
